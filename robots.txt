@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-5hpk4l.wakku.work/sitemap.xml
